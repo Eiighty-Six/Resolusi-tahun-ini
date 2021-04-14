@@ -4,3 +4,4 @@ RESOLUSI TAHUN INI
 - Mengerti cara berpikir komputer
 - Mengerti dasar desain web
 - Mencari jurusan spesialis yang tepat
+- Membuat web sederhana
