@@ -1,7 +1,7 @@
 RESOLUSI TAHUN INI
 - Mengerti dan bisa menuliskan bahasa pemogramanan ( Python - CSS - HTML - JAVA )
 - Mengerti github secara menyeluruh
-- Mengerti cara berpikir komputer
+
 - Mengerti dasar desain web
 - Mencari jurusan spesialis yang tepat
 - Membuat web sederhana
